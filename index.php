@@ -696,7 +696,7 @@ foreach($deelnemers as $_k => $_v){
 }	
 print "</table>"; 
 
-
+print "gewijzigd";wijzinging in testbranch
 ?>
 </body>
 </html>
